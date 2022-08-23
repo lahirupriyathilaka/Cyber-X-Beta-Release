@@ -43,8 +43,8 @@ global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94717120796']
-global.ownertag = '94717120796' //ur tag number
+global.owner = ['94711421243']
+global.ownertag = '94711421243' //ur tag number
 global.botname = 'CYBER-X TEST EDITION' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
